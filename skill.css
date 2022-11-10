@@ -1,0 +1,28 @@
+#pic{
+    box-shadow:  0 0 50px rgb(22 16 16);
+    border-style: solid;
+    border-radius: 65px;
+    border-color: wheat;
+    margin-bottom: 45px;
+    margin-top: 45px;
+    width: 295px;
+    padding: 7px;
+    
+}
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    }
+#pic:hover{
+    transform: scale(1.2);
+}
+.font-effect-fire{
+    font-size: 80px;
+    text-align: center;
+   
+    
+}
+
+
+
